@@ -1,0 +1,1268 @@
+[11-Feb-2026 21:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:35:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 21:38:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:38:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 21:38:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 21:39:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:40:21 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[11-Feb-2026 21:40:26 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[11-Feb-2026 21:41:16 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[11-Feb-2026 21:41:41 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`projek_merfv1`.`messages`, CONSTRAINT `messages_ibfk_3` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE SET NULL) in C:\xampp\htdocs\merf-v1\pages\messages.php:80
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\messages.php(80): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\messages.php on line 80
+[11-Feb-2026 21:41:45 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`projek_merfv1`.`messages`, CONSTRAINT `messages_ibfk_3` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE SET NULL) in C:\xampp\htdocs\merf-v1\pages\messages.php:80
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\messages.php(80): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\messages.php on line 80
+[11-Feb-2026 21:42:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:42:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:44:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:50:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 21:50:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 22:00:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 22:00:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 22:00:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:00:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:45:49 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 22:45:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:46:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:46:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:46:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:46:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:46:52 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 22:46:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 22:47:36 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 22:47:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 22:47:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:02:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:04:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:04:28 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 23:04:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:05:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:05:37 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 23:05:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:05:57 Asia/Jakarta] USER NOT LOGIN
+[11-Feb-2026 23:05:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:05:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:11:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:11:39 Asia/Jakarta] USER NOT LOGIN
+[11-Feb-2026 23:11:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:12:12 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[11-Feb-2026 23:12:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[11-Feb-2026 23:12:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:113
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 113
+[11-Feb-2026 23:12:35 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[12-Feb-2026 13:50:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[12-Feb-2026 13:50:43 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:50:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[12-Feb-2026 13:50:45 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:50:51 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[12-Feb-2026 13:51:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[12-Feb-2026 13:51:16 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:51:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[12-Feb-2026 13:51:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[12-Feb-2026 13:51:37 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:51:40 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:51:41 Asia/Jakarta] USER NOT LOGIN
+[12-Feb-2026 13:51:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 07:52:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 07:52:50 Asia/Jakarta] USER NOT LOGIN
+[13-Feb-2026 07:52:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 07:58:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 08:01:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 08:01:44 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[13-Feb-2026 08:01:45 Asia/Jakarta] USER LOGIN: Kaylavegasus
+[13-Feb-2026 08:01:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 08:25:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\merf-v1\pages\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 50
+[13-Feb-2026 08:25:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\merf-v1\pages\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 50
+[13-Feb-2026 08:40:56 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[13-Feb-2026 08:41:44 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[13-Feb-2026 08:41:45 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 474
+[13-Feb-2026 08:47:58 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 511
+[13-Feb-2026 08:48:02 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\merf-v1\pages\product-detail.php on line 511
+[13-Feb-2026 08:53:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 08:54:32 Asia/Jakarta] USER LOGIN: Cust1@gmail.com
+[13-Feb-2026 08:54:44 Asia/Jakarta] USER LOGIN: Cust1@gmail.com
+[13-Feb-2026 09:04:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:04:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:05:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\merf-v1\pages\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 50
+[13-Feb-2026 09:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:14:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:16:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:16:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:16:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:16:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:16:17 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:16:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:16:35 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:16:43 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:17:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:24:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:24:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:25:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:25:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:25:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:25:35 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:25:44 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:25:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:26:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:111) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:26:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:111) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:26:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:111) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:26:59 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:111) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:27:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:27:19 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getProductImageUrl() (previously declared in C:\xampp\htdocs\merf-v1\pages\product-detail.php:47) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 248
+[13-Feb-2026 09:35:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:36:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:36:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:36:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:37:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:37:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:37:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:41:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:41:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:41:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:46:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:48:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:53:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 09:53:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:55:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 09:55:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:01:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:01:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:01:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:02:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:02:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:05:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:05:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:09:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:09:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:15:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:16:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:16:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:16:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:16:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:21:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:21:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:22:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:22:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:25:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:25:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:28:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:31:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:34:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:42:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\index.php:908
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\index.php on line 908
+[13-Feb-2026 10:48:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:49:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:49:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:50:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:50:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:51:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:51:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:53:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:53:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:53:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:54:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 10:54:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 10:54:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 11:00:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 11:00:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:00:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:01:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:01:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\service.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\service.php on line 112
+[13-Feb-2026 11:01:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\admin\users.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\admin\users.php on line 5
+[13-Feb-2026 11:13:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\admin\users.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\admin\users.php on line 5
+[13-Feb-2026 11:19:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:20:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:22:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:22:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:24:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:25:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:25:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:26:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:28:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:28:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:29:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:29:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:33:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:35:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:35:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:35:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:35:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:40:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:40:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:42:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:43:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function buildQueryString() in C:\xampp\htdocs\merf-v1\pages\food.php:128
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 128
+[13-Feb-2026 11:48:46 Asia/Jakarta] PHP Warning:  Undefined variable $recent_posts in C:\xampp\htdocs\merf-v1\pages\blog.php on line 219
+[13-Feb-2026 11:48:46 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\merf-v1\pages\blog.php on line 219
+[13-Feb-2026 11:48:46 Asia/Jakarta] PHP Warning:  Undefined variable $total_pages in C:\xampp\htdocs\merf-v1\pages\blog.php on line 266
+[13-Feb-2026 12:06:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\merf-v1\pages\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 50
+[13-Feb-2026 12:34:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 24
+[13-Feb-2026 12:35:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 24
+[13-Feb-2026 12:35:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 24
+[13-Feb-2026 13:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\admin\users.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\admin\users.php on line 5
+[13-Feb-2026 13:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 24
+[19-Feb-2026 12:13:03 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:07 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:11 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:15 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:19 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:24 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:50 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:55 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:13:59 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:03 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:07 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:11 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:15 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:19 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:14:23 Asia/Jakarta] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Feb-2026 12:17:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 24
+[19-Feb-2026 12:22:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in C:\xampp\htdocs\merf-v1\pages\profile.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\profile.php on line 28
+[19-Feb-2026 13:32:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:32:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:33:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:33:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:33:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:33:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:41:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:42:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:44:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:44:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:44:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:44:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:45:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:52:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:53:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:53:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:53:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 13:53:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:02:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:02:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:04:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:04:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:04:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:05:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:09:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:09:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:09:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:11:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:11:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:13:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:13:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:13:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:18:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:18:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:25:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:25:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:25:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:25:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:27:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 14:27:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 22:42:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 22:42:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\merf-v1\merf-v1\includes\functions.php on line 12
+[19-Feb-2026 22:42:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:43:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:43:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:47:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:47:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:47:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:47:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:47:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:47:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:48:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:48:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:48:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:51:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 22:56:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:56:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:56:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:56:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:57:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:57:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:57:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isSeller() in C:\xampp\htdocs\merf-v1\pages\food.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 7
+[19-Feb-2026 22:58:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\product-card.php:15
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\food.php(180): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\product-card.php on line 15
+[19-Feb-2026 22:58:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\product-card.php:15
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\food.php(180): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\product-card.php on line 15
+[19-Feb-2026 22:58:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 22:58:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\product-card.php:15
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\food.php(180): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\product-card.php on line 15
+[19-Feb-2026 22:59:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:04:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\product-card.php:15
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\food.php(180): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\product-card.php on line 15
+[19-Feb-2026 23:04:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:06:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:146
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 146
+[19-Feb-2026 23:06:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:06:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:146
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 146
+[19-Feb-2026 23:06:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:06:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:146
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 146
+[19-Feb-2026 23:07:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:09:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:09:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:11:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:11:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:11:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:12:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:12:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:14:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:15:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:15:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:16:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:16:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[19-Feb-2026 23:16:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:16:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[19-Feb-2026 23:17:07 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'avg_rating' in C:\xampp\htdocs\merf-v1\admin\products.php:91
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\admin\products.php(91): PDO->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\admin\products.php on line 91
+[20-Feb-2026 11:39:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:39:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 11:39:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 11:39:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:39:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 11:39:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:39:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 11:46:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:46:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:46:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 11:46:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 11:51:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 11:51:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 11:51:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 11:51:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 12:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 12:19:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:19:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:141
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 141
+[20-Feb-2026 12:19:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:141
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 141
+[20-Feb-2026 12:19:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:141
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 141
+[20-Feb-2026 12:19:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:140
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 140
+[20-Feb-2026 12:22:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:139
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 139
+[20-Feb-2026 12:22:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:309
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 309
+[20-Feb-2026 12:23:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:141
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 141
+[20-Feb-2026 12:25:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:26:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:26:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:26:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:27:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:27:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:27:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:27:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:27:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:27:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:27:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:29:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:29:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\preloved.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\preloved.php on line 79
+[20-Feb-2026 12:29:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 108
+[20-Feb-2026 12:34:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:131
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 131
+[20-Feb-2026 12:38:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:131
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 131
+[20-Feb-2026 12:38:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:131
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 131
+[20-Feb-2026 12:38:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getProductImageUrl() in C:\xampp\htdocs\merf-v1\pages\food.php:131
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\food.php on line 131
+[20-Feb-2026 13:11:50 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategoriesWithCounts() (previously declared in C:\xampp\htdocs\merf-v1\includes\functions.php:270) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 359
+[20-Feb-2026 13:12:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategoriesWithCounts() (previously declared in C:\xampp\htdocs\merf-v1\includes\functions.php:270) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 359
+[20-Feb-2026 13:14:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategoriesWithCounts() (previously declared in C:\xampp\htdocs\merf-v1\includes\functions.php:270) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 359
+[20-Feb-2026 13:14:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategoriesWithCounts() (previously declared in C:\xampp\htdocs\merf-v1\includes\functions.php:270) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 359
+[20-Feb-2026 13:14:22 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategoriesWithCounts() (previously declared in C:\xampp\htdocs\merf-v1\includes\functions.php:270) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 359
+[20-Feb-2026 14:21:30 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategories() (previously declared in C:\xampp\htdocs\merf-v1\pages\upload-product-category.php:35) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 231
+[20-Feb-2026 14:23:11 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategories() (previously declared in C:\xampp\htdocs\merf-v1\pages\upload-product-category.php:35) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 231
+[20-Feb-2026 14:23:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getFoodCategories() (previously declared in C:\xampp\htdocs\merf-v1\pages\upload-product-category.php:35) in C:\xampp\htdocs\merf-v1\includes\functions.php on line 231
+[04-Mar-2026 21:40:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\xampp\htdocs\merf-v1\header.php on line 493
+[04-Mar-2026 21:40:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\xampp\htdocs\merf-v1\header.php on line 493
+[04-Mar-2026 21:40:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\xampp\htdocs\merf-v1\header.php on line 493
+[04-Mar-2026 21:40:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\xampp\htdocs\merf-v1\header.php on line 493
+[04-Mar-2026 21:46:10 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\merf-v1\pages\search.php:101
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\search.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\search.php on line 101
+[05-Mar-2026 13:02:16 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\merf-v1\pages\search.php:101
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\search.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\search.php on line 101
+[09-Apr-2026 12:20:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\merf-v1\pages\search.php:101
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\search.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\search.php on line 101
+[09-Apr-2026 12:20:47 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\merf-v1\pages\search.php:101
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\search.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\search.php on line 101
+[09-Apr-2026 12:21:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\merf-v1\pages\search.php:101
+Stack trace:
+#0 C:\xampp\htdocs\merf-v1\pages\search.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\merf-v1\pages\search.php on line 101

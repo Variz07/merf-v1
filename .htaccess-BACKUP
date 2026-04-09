@@ -1,0 +1,47 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# Set base directory
+RewriteBase /merf-v1/
+
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Clean URLs for product details
+RewriteRule ^product/([0-9]+)/?$ pages/product-detail.php?id=$1 [L,QSA]
+RewriteRule ^blog/([0-9]+)/?$ pages/blog-detail.php?id=$1 [L,QSA]
+RewriteRule ^profile/([0-9]+)/?$ pages/profile.php?id=$1 [L,QSA]
+RewriteRule ^category/([a-z]+)/?$ pages/$1.php [L,QSA]
+
+# Prevent directory listing
+Options -Indexes
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Error pages
+ErrorDocument 404 /merf-v1/pages/404.php
+ErrorDocument 403 /merf-v1/pages/403.php
+ErrorDocument 500 /merf-v1/pages/500.php
+
+# Compress files
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache control
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+</IfModule>

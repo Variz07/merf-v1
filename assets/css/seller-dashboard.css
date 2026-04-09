@@ -1,0 +1,525 @@
+/* ============================================================
+   seller-dashboard.css
+   Styles only for the Seller Dashboard page.
+   Uses Poppins font (already loaded by header.php).
+   Colors match MERFV's existing brown/warm palette.
+   ============================================================ */
+
+
+/* ── PAGE WRAPPER ────────────────────────────────────────── */
+.dash-page {
+    background: #f8f5f1;         /* warm off-white, matches site */
+    min-height: 100vh;
+    padding: 30px 0 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dash-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+/* ── PAGE HEADER ─────────────────────────────────────────── */
+.dash-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.dash-header h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #2C2416;
+    margin: 0;
+}
+
+.dash-header p {
+    font-size: 13px;
+    color: #9ca3af;
+    margin: 4px 0 0;
+}
+
+.dash-add-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(135deg, #4C3C27, #300C0C);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.dash-add-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(76,60,39,0.3);
+    color: white;
+    text-decoration: none;
+}
+
+
+/* ── CATEGORY FILTER TABS ────────────────────────────────── */
+.dash-filters {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.dash-filters span {
+    font-size: 12px;
+    color: #9ca3af;
+    font-weight: 600;
+    margin-right: 4px;
+}
+
+.filter-btn {
+    padding: 7px 18px;
+    border-radius: 20px;
+    border: 1px solid #e2d9cc;
+    background: white;
+    color: #6b7280;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.15s;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.filter-btn:hover {
+    background: #f5f0e8;
+    color: #4C3C27;
+    text-decoration: none;
+}
+
+.filter-btn.active-all {
+    background: #2C2416;
+    color: white;
+    border-color: #2C2416;
+}
+
+.filter-btn.active-cat {
+    border: none;
+}
+
+
+/* ── STAT CARDS ──────────────────────────────────────────── */
+.dash-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.stat-card-dash {
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #e8e3d9;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.stat-card-dash:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+.stat-icon-box {
+    width: 42px;
+    height: 42px;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    margin-bottom: 14px;
+}
+
+.stat-label-dash {
+    font-size: 10px;
+    color: #9ca3af;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+}
+
+.stat-value-dash {
+    font-size: 21px;
+    font-weight: 800;
+    color: #1a1a1a;
+    margin: 3px 0;
+    letter-spacing: -0.5px;
+}
+
+.stat-sub-dash {
+    font-size: 11px;
+    color: #22c55e;
+    font-weight: 700;
+}
+
+/* Decorative circle in corner */
+.stat-card-dash::after {
+    content: '';
+    position: absolute;
+    bottom: -18px;
+    right: -18px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+
+
+/* ── CHARTS ROW ──────────────────────────────────────────── */
+.dash-charts {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.dash-card {
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #e8e3d9;
+    padding: 22px;
+}
+
+.dash-card-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 0 4px;
+}
+
+.dash-card-sub {
+    font-size: 11px;
+    color: #9ca3af;
+    margin: 0 0 18px;
+}
+
+/* Chart canvas */
+.dash-chart-wrap {
+    position: relative;
+    height: 210px;
+}
+
+/* Legend row for the bar chart */
+.chart-legend {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+}
+
+.legend-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+
+.legend-item {
+    font-size: 10px;
+    color: #6b7280;
+    font-weight: 600;
+}
+
+
+/* ── DONUT CHART CARD ────────────────────────────────────── */
+.donut-wrap {
+    position: relative;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.donut-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 14px;
+}
+
+.donut-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #f8f5f1;
+    border-radius: 8px;
+    padding: 8px 10px;
+}
+
+.donut-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.donut-item-label {
+    font-size: 10px;
+    color: #6b7280;
+    font-weight: 700;
+}
+
+.donut-item-pct {
+    font-size: 13px;
+    font-weight: 800;
+    color: #1a1a1a;
+}
+
+
+/* ── BOTTOM ROW ──────────────────────────────────────────── */
+.dash-bottom {
+    display: grid;
+    grid-template-columns: 1fr 1.55fr;
+    gap: 16px;
+}
+
+
+/* ── TOP PRODUCTS LIST ───────────────────────────────────── */
+.product-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    transition: background 0.15s;
+}
+
+.product-row:hover {
+    background: #faf8f5;
+}
+
+.product-row.top-one {
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+}
+
+.product-rank {
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 800;
+    flex-shrink: 0;
+}
+
+.product-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.product-name {
+    font-size: 12px;
+    font-weight: 600;
+    color: #1a1a1a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.product-meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 3px;
+}
+
+.product-sold {
+    font-size: 10px;
+    color: #9ca3af;
+}
+
+.product-stats {
+    text-align: right;
+    flex-shrink: 0;
+}
+
+.product-revenue {
+    font-size: 11px;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+.product-trend {
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.trend-up   { color: #16a34a; }
+.trend-down { color: #dc2626; }
+
+
+/* ── CATEGORY BADGE ──────────────────────────────────────── */
+.cat-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 20px;
+    letter-spacing: 0.2px;
+    white-space: nowrap;
+}
+
+
+/* ── STATUS BADGE ────────────────────────────────────────── */
+.status-badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+}
+
+
+/* ── ORDERS TABLE ────────────────────────────────────────── */
+.orders-table-wrap {
+    overflow-x: auto;
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+.orders-table thead th {
+    font-size: 10px;
+    font-weight: 700;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 0 8px 10px;
+    text-align: left;
+    border-bottom: 2px solid #f1f5f9;
+}
+
+.orders-table tbody td {
+    padding: 10px 8px;
+    border-bottom: 1px solid #faf8f5;
+    vertical-align: middle;
+}
+
+.orders-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.orders-table tbody tr:hover td {
+    background: #faf8f5;
+}
+
+.order-id {
+    font-family: monospace;
+    font-size: 11px;
+    font-weight: 800;
+    color: #1a1a1a;
+}
+
+.order-time {
+    font-size: 9px;
+    color: #9ca3af;
+    margin-top: 1px;
+}
+
+.order-product {
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.order-customer {
+    font-size: 10px;
+    color: #9ca3af;
+    margin-top: 1px;
+}
+
+.order-amount {
+    font-size: 12px;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+/* View All button */
+.dash-view-all {
+    font-size: 11px;
+    color: #4C3C27;
+    font-weight: 700;
+    text-decoration: none;
+    border: 1px solid #e8e3d9;
+    padding: 5px 12px;
+    border-radius: 8px;
+    transition: all 0.15s;
+}
+
+.dash-view-all:hover {
+    background: #f5f0e8;
+    text-decoration: none;
+    color: #2C2416;
+}
+
+/* Card header row */
+.dash-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 16px;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 28px 0;
+    color: #9ca3af;
+    font-size: 13px;
+}
+
+
+/* ── RESPONSIVE ──────────────────────────────────────────── */
+@media (max-width: 1024px) {
+    .dash-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .dash-charts {
+        grid-template-columns: 1fr;
+    }
+
+    .dash-bottom {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .dash-stats {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .dash-header h1 {
+        font-size: 18px;
+    }
+}
